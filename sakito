@@ -1,0 +1,33 @@
+{
+   "title":"Saki and Chika",
+   "description":"",
+   "artist":"Omuhayashi",
+   "author":"Omuhayashi",
+   "cover":"https://i.imgur.com/APbNGMg.png",
+   "chapters":{
+      "1":{
+         "title":"Coming Out",
+         "volume":"1",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/wMTepI5/"
+         },
+         "last_updated":"1629763920"
+      },
+      "2":{
+         "title":"The Beginning",
+         "volume":"1",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/vg48NJ3/"
+         },
+         "last_updated":"1629912180"
+      },
+      "3":{
+         "title":"Negotiation",
+         "volume":"",
+         "groups":{
+            "ElPsyKongroo":"/proxy/api/imgur/chapter/awf6UjZ/"
+         },
+         "last_updated":"1630106940"
+      }
+   }
+}
